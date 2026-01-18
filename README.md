@@ -142,8 +142,8 @@ A: 所有的训练记录、模型权重文件（`.pt`）和图表都保存在 `r
 
 如果你在使用过程中遇到任何问题，或者有好的建议，欢迎联系我！
 
-*   **邮箱**: diovolendoxch@gmail.com
-*   **GitHub**: [[DiovolendoQwQ](https://github.com/DiovolendoQwQ)]
-
+*   **邮箱**: kenny030524@163.com
+*   **GitHub**: [https://github.com/Kennyzuishuai/Insect-Pest-Detection]
 ---
 *这就去试试吧，祝你捉虫愉快！* 🌾🐞
+
