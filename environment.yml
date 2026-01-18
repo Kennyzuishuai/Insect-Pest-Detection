@@ -1,0 +1,22 @@
+name: yolov8_env
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.4
+  - pip
+  - pip:
+    - ultralytics>=8.3.0
+    - pandas
+    - matplotlib
+    - seaborn
+    - tqdm
+    - pyyaml
+    - ipykernel
+    - opencv-python
+    - scipy
